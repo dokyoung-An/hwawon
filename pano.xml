@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node17" apprev="20025" appversion="7.0.10">
+  <panorama id="node17" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-3.31428" fov="140.418" tilt="-2.20738"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node17" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:32" comment="" latitude="34.968947" altitude="144.30" title="세대입구"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-353.05" url="{node16}" tilt="-18.64" title="현관"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="179.536" fov="140.418" tilt="0.964612"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node16" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:31" comment="" latitude="34.968947" altitude="144.30" title="현관"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-357.74" url="{node17}" tilt="-25.8" title="세대입구"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-179.98" url="{node4}" tilt="-33.2" title="복도3"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-177.995" fov="140.418" tilt="0.964612"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node9" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:21" comment="" latitude="34.968947" altitude="144.30" title="안방"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-187.09" url="{node11}" tilt="-12.02" title="드레스룸"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-168.73" url="{node10}" tilt="-20.68" title="내욕실"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point03" pan="-112.68" url="{node3}" tilt="-20.5" title="복도1"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point04" pan="-13.48" url="{node8}" tilt="-22.78" title="발코니1"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="2.73964" fov="140.418" tilt="-1.22317"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node11" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:24" comment="" latitude="34.968947" altitude="144.30" title="드레스룸"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-177.07" url="{node9}" tilt="-17.41" title="안방"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="18.9556" fov="140.418" tilt="-0.593637"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node8" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:20" comment="" latitude="34.968947" altitude="144.30" title="발코니1"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-259.28" url="{node7}" tilt="-18.8" title="실외기실"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-147.24" url="{node9}" tilt="-19.9" title="안방"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-79.1681" fov="140.418" tilt="-0.799382"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node7" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:18" comment="" latitude="34.968947" altitude="144.30" title="실외기실"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-166.05" url="{node8}" tilt="-32.92" title="발코니1"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="23.5514" fov="140.418" tilt="0.221915"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node10" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:23" comment="" latitude="34.968947" altitude="144.30" title="내욕실"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-195.6" url="{node9}" tilt="-26.62" title="안방"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="174.841" fov="140.418" tilt="0.04028"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node3" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:12" comment="" latitude="34.968947" altitude="144.30" title="복도1"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-184.48" url="{node6}" tilt="-20.48" title="거실"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-233.73" url="{node5}" tilt="-22.83" title="복도2"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point03" pan="-127.8" url="{node9}" tilt="-16.59" title="안방"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point04" pan="-339.68" url="{node2}" tilt="-15.28" title="주방"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="90.9224" fov="140.418" tilt="-2.3906"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node2" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:11" comment="" latitude="34.968947" altitude="144.30" title="주방"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-356.81" url="{node1}" tilt="-25.32" title="발코니2"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-85.65" url="{node3}" tilt="-17.23" title="복도1"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="1.36039" fov="140.418" tilt="-0.684922"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node6" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:17" comment="" latitude="34.968947" altitude="144.30" title="거실"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-174.92" url="{node3}" tilt="-20.23" title="복도1"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-225.74" url="{node9}" tilt="-14.28" title="안방"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point03" pan="-128.83" url="{node5}" tilt="-20.19" title="복도2"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="63.4418" fov="140.418" tilt="-3.45544"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node1" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:09" comment="" latitude="34.968947" altitude="144.30" title="발코니2"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-355.16" url="{node18}" tilt="-26.51" title="대피공간"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-197.57" url="{node2}" tilt="-23.14" title="주방"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="92.1013" fov="140.418" tilt="-0.626593"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node18" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:51:23" comment="" latitude="34.968947" altitude="144.30" title="대피공간"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-181.88" url="{node1}" tilt="-23.52" title="발코니2"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="175.147" fov="140.418" tilt="-0.994656"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node5" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:15" comment="" latitude="34.968947" altitude="144.30" title="복도2"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-42.72" url="{node13}" tilt="-26.06" title="팬트리"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-359.63" url="{node4}" tilt="-26.3" title="복도3"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point03" pan="-287.85" url="{node14}" tilt="-26.39" title="침실2"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point04" pan="-171.23" url="{node3}" tilt="-26.4" title="복도1"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="175.144" fov="140.418" tilt="-1.12635"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node4" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:14" comment="" latitude="34.968947" altitude="144.30" title="복도3"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-180.85" url="{node5}" tilt="-20.78" title="복도2"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point02" pan="-110.18" url="{node16}" tilt="-28.32" title="현관"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point03" pan="-0.34" url="{node12}" tilt="-28.02" title="외욕실"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point04" pan="-285.64" url="{node15}" tilt="-28.87" title="침실1"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-178.846" fov="140.418" tilt="-1.12642"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node15" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:29" comment="" latitude="34.968947" altitude="144.30" title="침실1"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-209.21" url="{node4}" tilt="-24.72" title="복도3"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-178.703" fov="140.418" tilt="-1.12642"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node14" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:28" comment="" latitude="34.968947" altitude="144.30" title="침실2"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-208.35" url="{node5}" tilt="-23.12" title="복도2"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="22.9941" fov="140.418" tilt="-3.59329"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node12" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:25" comment="" latitude="34.968947" altitude="144.30" title="외욕실"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-182.52" url="{node4}" tilt="-31.35" title="복도3"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" width="2000" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="7.89393" fov="140.418" tilt="-4.42258"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" nodeid="node13" info="" longitude="127.534283" tags="2024년 09월 30일 대구 동화아이위시 105동 2602호 (34평)" source="" copyright="" customnodeid="" heading="0" author="" datetime="2024:10:04 15:49:27" comment="" latitude="34.968947" altitude="144.30" title="팬트리"/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label textalpha="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" enabled="1" borderradius="1" width="180" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" wordwrap="1" border="1"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot target="" skinid="ht_node" description="" id="Point01" pan="-174.46" url="{node5}" tilt="-28.47" title="복도2"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" delay="none" blendtime="1" zoomspeed="2" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" zoomoutpause="1"/>
+    <autorotate delay="10.00" speed="0.020" returntohorizon="0.000" enabled="1" nodedelay="0.00" useanimation="0" horizonfromdefview="0" nodefilter="" startloaded="0" noderandom="1"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" invertwheel="0" sensitivity="8" dblclickfullscreen="0" hideabout="1" rubberband="0" zoomcentercursor="1" contextvr="1" speedwheel="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" contextprojections="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="105동 2602호" author="" comment="" tags="" copyright="" title="대구 화원동화아이위시"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
